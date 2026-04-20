@@ -14,8 +14,8 @@ Built with Python and the OpenAI API, this chatbot is deployed using Hugging Fac
 
 ## Preview
 
-![Chatbot Preview](<img width="1440" height="788" alt="Screenshot 2026-04-20 at 12 54 23 AM" src="https://github.com/user-attachments/assets/d43ad65d-e1f7-43a4-b082-6f034864a9f7" />
-)
+<img width="1440" height="788" alt="Screenshot 2026-04-20 at 12 54 23 AM" src="https://github.com/user-attachments/assets/d43ad65d-e1f7-43a4-b082-6f034864a9f7" />
+
 
 ---
 
